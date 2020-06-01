@@ -1,0 +1,7 @@
+6
+Aldo M 32 2
+Barbara F 35 3
+Carla F 30 4
+Dario M 25 4
+Enrica F 28 3
+Filippo M 24 3
